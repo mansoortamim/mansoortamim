@@ -14,7 +14,7 @@ gets executed. Run it once a week, on the same day.
 
 ## Input
 
-If `~/.linkedin-agent/voice.md` and `log.md` exist, read them. Older installs
+If `./linkedin-agent/voice.md` and `log.md` exist, read them. Older installs
 kept these in `~/.claude/linkedin/`; read from there if the new folder is
 missing. The plan should not repeat a theme from the last fortnight. If they do
 not exist, ask for four things and write them down:
@@ -128,6 +128,6 @@ ENGAGE  (5 reach / 3 peers / 2 buyers)
 Say "write Tuesday" and I will draft it.
 ```
 
-Write the plan to `~/.linkedin-agent/plan.md` so the other skills can read it.
+Write the plan to `./linkedin-agent/plan.md` so the other skills can read it.
 Writing a time into the plan schedules nothing. The user runs the plan, or
 `/li-publish` schedules each post once it is written and approved.

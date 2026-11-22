@@ -16,7 +16,7 @@ posted it.
 
 ## Before you write
 
-1. Read `~/.linkedin-agent/voice.md` if it exists. Older installs kept it in
+1. Read `./linkedin-agent/voice.md` if it exists. Older installs kept it in
    `~/.claude/linkedin/`; read it from there if the new folder is missing.
    That file is the user's voice profile: how they talk, what they never say,
    who they are talking to. If it does not exist, ask for **three of their own
@@ -73,7 +73,7 @@ Reply "yes" to log it, or tell me what to change.
 ```
 
 **5. Never publish from here.** This skill produces text. On "yes", append
-the post to `~/.linkedin-agent/log.md` with the date, the hook used and the
+the post to `./linkedin-agent/log.md` with the date, the hook used and the
 first line, so `/li-audit` has a history to work from later. Then the user
 posts it, or `/li-publish` does (below).
 
