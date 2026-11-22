@@ -1,1 +1,5 @@
-2026-11-23  TEXT  #1 Contrarian Take  "\"Human error\" is not a root cause. It's where the investigation stopped."  postzen:m17fcaq7pxg1sk4301mv27w1c98jp3rf  (scheduled, no URL yet)
+2026-11-23  IMAGE #1 Contrarian Take  "\"Human error\" is not a root cause. It's where the investigation stopped."  postzen:m17fcaq7pxg1sk4301mv27w1c98jp3rf  (scheduled, no URL yet)
+2026-11-30  IMAGE  #1 Contrarian Take  "If the logbook gets filled in at the end of the shift, the data is already compromised."  postzen:m17dz821k59c1md9n2b3bczfdd8jqks5  (scheduled 9:00 AM PKT)
+2026-12-07  IMAGE  #16 Good vs Great  "Good SOPs describe the process. Great SOPs make the wrong step hard to take."  postzen:m17cde5g3frktnq9mb5e032vs58jq75k  (scheduled 9:00 AM PKT)
+2026-12-14  IMAGE  #15 The Warning  "\"It's only a minor change\" is the most expensive sentence in a GMP facility."  postzen:m17fqfrvpgm109yr2n1qt4m8dd8jp14e  (scheduled 9:00 AM PKT)
+2026-12-21  IMAGE  #11 Myth Bust  "A risk score one point below the action threshold isn't a low risk. It's a negotiated one."  postzen:m173ncdtd5yccm8qctvf1p8q418jpfp9  (scheduled 9:00 AM PKT)
