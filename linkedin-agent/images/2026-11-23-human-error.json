@@ -1,0 +1,13 @@
+{
+  "kicker": "Deviations & CAPA",
+  "title": "\"Human error\" is not a root cause.",
+  "subtitle": "Ask what made the mistake easy to make. The answer is usually in the documents.",
+  "items": [
+    {"head": "SOP step doesn't match the real process", "body": "People follow the practice, not the paper"},
+    {"head": "BMR asks for a check with no limit or space", "body": "If it can't be recorded, it won't be checked"},
+    {"head": "Look-alike labels or materials side by side", "body": "Mix-ups are designed in, not trained out"},
+    {"head": "The task relies on memory", "body": "Put a checkpoint where the error happens"}
+  ],
+  "footer": "Retraining resets the clock. CAPA changes the system.",
+  "author": "Mansoor Ahmed"
+}

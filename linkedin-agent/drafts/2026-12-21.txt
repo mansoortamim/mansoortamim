@@ -1,0 +1,16 @@
+A risk score one point below the action threshold isn't a low risk. It's a negotiated one.
+
+Anyone who has sat in a QRM review knows the moment. The RPN lands just above the line, someone says "detection is probably better than that", and the number drops.
+
+Sometimes that's right. Often it's the meeting wanting to finish.
+
+What keeps an FMEA honest:
+- Score severity first, and never lower it because of controls. Controls change occurrence and detection, not how bad the failure is.
+- Write down the evidence behind every occurrence and detection score. "Operator experience" isn't evidence.
+- Challenge any score that sits just under the threshold. Ask what would have to be true for it to be one point higher.
+
+A risk assessment isn't there to prove the process is safe. It's there to find where it isn't.
+
+How does your team stop risk scores drifting down in review?
+
+#QRM #RiskManagement #GMP

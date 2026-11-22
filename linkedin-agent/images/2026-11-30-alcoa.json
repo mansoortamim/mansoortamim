@@ -1,0 +1,28 @@
+{
+ "kicker": "Data integrity",
+ "title": "ALCOA+ is five questions an auditor will ask.",
+ "items": [
+  {
+   "head": "Attributable",
+   "body": "Who did it?"
+  },
+  {
+   "head": "Legible",
+   "body": "Can someone else read it?"
+  },
+  {
+   "head": "Contemporaneous",
+   "body": "Was it recorded when it happened?"
+  },
+  {
+   "head": "Original",
+   "body": "Is this the first record?"
+  },
+  {
+   "head": "Accurate",
+   "body": "Does it match what actually happened?"
+  }
+ ],
+ "footer": "Most findings start with convenience, not fraud.",
+ "author": "Mansoor Ahmed"
+}

@@ -1,0 +1,20 @@
+If the logbook gets filled in at the end of the shift, the data is already compromised.
+
+It might be accurate. It might match the batch. But it isn't contemporaneous, and an inspector will read it that way.
+
+ALCOA+ isn't paperwork for its own sake. Each letter is a question an auditor will ask:
+- Attributable: who did it?
+- Legible: can someone else read it?
+- Contemporaneous: was it recorded when it happened?
+- Original: is this the first record, or a copy of a note on a glove?
+- Accurate: does it match what actually happened?
+
+The "+" adds complete, consistent, enduring and available.
+
+Most data integrity findings don't start with fraud. They start with convenience: a rough note, a time written from memory, a correction with no reason given.
+
+Fix the convenience and most findings go away. Put the logbook where the work is. Give the form a field for every value. Make a proper correction quicker than a hidden one.
+
+Which ALCOA+ principle do you see broken most often on the floor?
+
+#DataIntegrity #GMP #PharmaceuticalQuality

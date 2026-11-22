@@ -1,0 +1,18 @@
+Good SOPs describe the process. Great SOPs make the wrong step hard to take.
+
+Too many SOPs are written for the auditor, not the operator. They're complete, they're approved, and nobody on the floor opens them.
+
+What changes that:
+- One action per step. If a step has "and" in it, it's probably two steps.
+- Steps in the order the work is done, not the order the equipment manual lists them.
+- Limits and acceptance criteria inside the step, not in an annexure three pages later.
+- The same words the operators use for the rooms and the equipment.
+- Walk the draft on the floor with the person who does the job before it goes for approval.
+
+That last one catches more problems than any review cycle.
+
+If an operator needs a training session to understand an SOP, it's the SOP that needs rewriting.
+
+What's one SOP habit you'd ban if you could?
+
+#SOP #GMP #QualityAssurance

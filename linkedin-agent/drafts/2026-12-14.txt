@@ -1,0 +1,19 @@
+"It's only a minor change" is the most expensive sentence in a GMP facility.
+
+A new supplier for the same grade of excipient. A different gasket on the same machine. One column moved on a form. A software update "with no functional impact".
+
+Each of these can be logged as minor and come back months later as a deviation.
+
+The classification isn't the problem. The missing question is: what else does this touch?
+- Which SOPs, BMRs and forms reference it?
+- Does any validation or qualification rely on the old state?
+- Does a regulatory filing describe it?
+- Who needs training before the change goes live, not after?
+
+A change control that answers those four is rarely the one that hurts you.
+
+The one that hurts you was closed in a day because everyone agreed it was small.
+
+What's the "minor" change you've seen cause the biggest problem?
+
+#ChangeControl #GMP #PharmaceuticalQuality
